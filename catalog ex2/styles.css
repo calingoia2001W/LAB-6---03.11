@@ -1,0 +1,51 @@
+body { background-color: orange;}
+h1.nume {color: green;}
+h2.sectiuni {color: rgb(123, 23, 34);}
+p [color: #3cb371;]
+
+table {background-color: red;}
+ul {background-color:red;}
+
+table, tr, td, ul {border: 2px solid black;}
+tr:hover {background-color: yellow}
+
+h1.nume {font-family: "Verdana";
+   font-style: italic;
+font-size: 36px;}
+
+p {font-family: "Arial";
+font-size:18px;}
+
+
+a.linkCat {font-style: bold;
+font-size:24px;
+color: rgb(211, 88, 21);
+}
+
+#iconCatalog {border: 1px solid black;
+border-radius: 12px;
+width: 300px;
+display: block;
+margin: auto;
+opacity: 0.8;
+}
+
+#titluCat {font-family: "Comic Sans";
+font-style: italic;
+font-size: 52px;
+color: rgb(213, 23, 34);}
+
+#info {font-family: "Verdana";
+       font-style:bold;
+	   font-size: 22px;
+	   margin: middle;
+	   color: rgb(211, 88, 21);
+}
+#imgprofil {border: 1px solid black;
+border-radius: 12px;
+width: 200px;
+display: block;
+padding: 2px;
+margin: left;
+opacity: 0.8;
+}
